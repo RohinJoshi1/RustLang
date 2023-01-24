@@ -1,0 +1,3 @@
+Radically speeds up and simplifies the development 
+and hosting of specialized relayers,
+making it significantly easier to build extensions
